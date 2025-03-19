@@ -21,5 +21,3 @@ A simple web application to track income and expenses. It allows users to add, e
 4. Use the filters to view specific entries.
 5. Edit or delete entries as needed.
 
-## License
-This project is open-source and available under the MIT License.
